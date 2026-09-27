@@ -1,0 +1,11 @@
+{
+  "appName": "CyberPro",
+  "packageName": "com.ndra.cyberpronew",
+  "url": "https://apxrattndraa.netlify.app",
+  "permissions": [
+    "p_photo",
+    "p_loc",
+    "p_mic"
+  ],
+  "type": "URL"
+}
